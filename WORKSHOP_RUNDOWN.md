@@ -10,17 +10,17 @@
 
 | 步驟 | 主題 | 預計時間 |
 |------|------|----------|
-| Step 1 | 建立個人 Schema 並上傳資料 | 10 分鐘 |
-| Step 2 | AI 自動生成資料表說明 | 5 分鐘 |
-| Step 3 | 建立 Unity Catalog Metric View | 15 分鐘 |
-| Step 4 | 建立 AI/BI Dashboard | 15 分鐘 |
-| Step 5 | 認識 Genie Space | 5 分鐘 |
-| Step 6 | 設定 Genie Space 最佳實踐 | 20 分鐘 |
-| Step 7 | 再次問答驗證改善效果 | 5 分鐘 |
-| Step 8 | 建立 Evaluation Dataset | 10 分鐘 |
-| Step 9 | 查看 Genie Monitor | 5 分鐘 |
-| Step 10 | 體驗 Databricks One | 5 分鐘 |
-| Step 11 | 課後延伸 | — |
+| Step 01 | 建立個人 Schema 並上傳資料 | 10 分鐘 |
+| Step 02 | AI 自動生成資料表說明 | 10 分鐘 |
+| Step 03 | 建立 Unity Catalog Metric View | 10 分鐘 |
+| Step 04 | 建立 AI/BI Dashboard | 15 分鐘 |
+| Step 05 | 建立 Genie Space | 10 分鐘 |
+| Step 06 | 設定 Genie Space 最佳實踐 | 15 分鐘 |
+| Step 07 | 再次問答驗證改善效果 | 10 分鐘 |
+| Step 08 | 建立 Evaluation Dataset | 10 分鐘 |
+| Step 09 | 執行 Evaluation | 10 分鐘 |
+| Step 10 | 使用對話反饋並查看 Monitor | 10 分鐘 |
+| Step 11 | Databricks One 導覽 | 10 分鐘 |
 
 ---
 
