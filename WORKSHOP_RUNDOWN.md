@@ -47,14 +47,15 @@ ft_ord_order_aggr
 
 **⏱ 預計時間：10 分鐘**
 
-### 1-1 建立 Schema
+### 1-1 確認/建立 Schema
 
 1. 點選左側導覽列 **Catalog**（書本圖示）
 2. 展開 **momo_workshop** catalog
-3. 點選右上角 **＋ Create schema**
-4. Schema 名稱填入：`你的英文名字`（例如：`eric`）
+3. 確認是否已有自己名稱的schema
+4. 如果無, 點選右上角 **＋ Create schema**
+5. Schema 名稱填入：`你的英文名字`（例如：`eric`）
    > ⚠️ 請使用小寫英文，不要有空格或特殊符號
-5. 點選 **Create** 確認建立
+6. 點選 **Create** 確認建立
 
 ### 1-2 上傳 CSV 建立 Delta Table
 
