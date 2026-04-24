@@ -1,8 +1,5 @@
 # momo Databricks AI/BI Hands-On Workshop
 
-> **預計時間**：約 2 小時（上半場 1 小時 ＋ 下半場 1 小時）
-> **難易度**：★★☆☆☆（初中級）
-
 ---
 
 ## 📋 大綱
