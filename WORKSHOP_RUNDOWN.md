@@ -21,13 +21,13 @@
 
 | 步驟 | 主題 | 
 |------|------|
-| Step 08 | Workshop資料內容說明
-| Step 09 | Databricks One 導覽
-| Step 10 | Genie 問答操作 
-| Step 11 | 資料倉儲人員查看 Monitor 反饋並優化 Genie 
-| Step 12 | 再次問答驗證改善效果 
-| Step 13 | 用 Genie Code 自助建立報表 
-| Step 14 | Workshop 心得分享 
+| Step 09 | Workshop資料內容說明
+| Step 10 | Databricks One 導覽
+| Step 11 | Genie 問答操作 
+| Step 12 | 資料倉儲人員查看 Monitor 反饋並優化 Genie 
+| Step 13 | 再次問答驗證改善效果 
+| Step 14 | 用 Genie Code 自助建立報表 
+| Step 15 | Workshop 心得分享 
 
 ---
 
